@@ -26,6 +26,13 @@ We are just getting started, and every contribution helps! Here's how you can su
 
 We are in the planning stages of several initiatives aimed at spreading awareness on how to develop solutions leveraging on crossFi blockchain technology. Stay tuned for upcoming announcements, projects, and opportunities to get involved.
 
+
+## How to get started as a developer on Celo ?
+Start with basics - Understand blockchain technology by going through resources like [This](https://docs.soliditylang.org/en/v0.8.24/)
+Learn about CrossFi - Start by understanding how CrossFi works through documentation available at [Here](https://docs.crossfi.org/crossfi-chain)
+Start with Solidity basics - Start by familiarizing yourself with the basics of smart contract development in Solidity you can find resources like [This here](https://solidity-by-example.org/)
+CrossFi GitHub - Check out the [CrossFi GitHub Link Here](https://github.com/crossfichain)
+
 ## Contact Us
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out:
