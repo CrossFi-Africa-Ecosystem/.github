@@ -38,7 +38,7 @@ We are in the planning stages of several initiatives aimed at spreading awarenes
 If you have any questions, suggestions, or just want to say hello, feel free to reach out:
 
 - **Email**: [✉️](crossfiafrica@gmail.com)
-- **Social Media**: Follow us on [Twitter](https://x.com/CrossFiAfrica)
+- **Social Media**: Follow us on [Twitter](https://x.com/CrossFiAfrica), [Telegram](https://t.me/Crossfi_Africa)
 
 ## Join Us
 
